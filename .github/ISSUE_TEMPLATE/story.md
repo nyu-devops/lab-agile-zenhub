@@ -1,6 +1,6 @@
 ---
 name: Story
-about: Create a User Stoory to enhance the product
+about: Create a User Story to enhance the product
 title: ''
 labels: enhancement
 assignees: ''

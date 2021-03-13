@@ -1,6 +1,6 @@
 ---
 name: Story
-about: This template is for creating stories
+about: Create a User Stoory to enhance the product
 title: ''
 labels: enhancement
 assignees: ''

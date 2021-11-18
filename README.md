@@ -8,7 +8,15 @@ https://github.com/gavinr/github-csv-tools
 ## Export/Import Issues
 Import and export GitHub issues via CSV (https://github.com/gavinr/github-csv-tools)
 
-Prerequisite:  [Install Node.js](https://nodejs.org/en/) , then run this to install:
+Prerequisite:  [Install Node.js](https://nodejs.org/en/).
+
+On a Mac you can use [homebrew](http://brew.sh) to do install Node cleanly if you don't already have it:
+
+```bash
+brew install node
+```
+
+Then run this to install GitHub CSV Tools:
 
 ```sh
 npm install -g github-csv-tools

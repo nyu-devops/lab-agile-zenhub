@@ -1,6 +1,8 @@
 # nyu-lab-agile-zenhub
 This is the repository for the ZenHub training lab on Agile Development and Planning
 
+[![ZenHub logo](https://dxssrr2j0sq4w.cloudfront.net/3.2.0/img/external/zenhub-badge.png)](https://zenhub.com)
+
 Import/Export Tool
 https://github.com/gavinr/github-csv-tools
 

@@ -1,6 +1,7 @@
 # nyu-lab-agile-zenhub
 This is the repository for the ZenHub training lab on Agile Development and Planning
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![ZenHub logo](https://dxssrr2j0sq4w.cloudfront.net/3.2.0/img/external/zenhub-badge.png)](https://app.zenhub.com/workspaces/lab-agile-zenhub-602c7d2ecd8ba2001cb5ed89/board)
 
 Import/Export Tool

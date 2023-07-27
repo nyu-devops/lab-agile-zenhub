@@ -6,15 +6,17 @@ labels: enhancement
 assignees: ''
 
 ---
+### Feature
 
-**As a** ...  
-**I need** ...  
-**So that** ...  
+**As a** [some role]  
+**I need** [some functionality]  
+**So that** [some benefit]  
 
-**Details & Assumptions:** 
-* ...
+### Details & Assumptions
 
-**Acceptance Criteria:**
+* [document what you know]
+
+### Acceptance Criteria
 
 ```gherkin
 Given [some initial state]
